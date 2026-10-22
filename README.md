@@ -6,10 +6,10 @@ I'm a passionate **Full Stack Developer** focused on building scalable web appli
 
 ### 🛠️ Tech Stack & Skills
 
-* **Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS
+* **Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS
 * **Backend:** Laravel, Node.js, Python, Django / FastAPI
 * **Databases:** MongoDB, MySQL
-* **Tools & DevOps:** Git, GitHub, Docker, Postman, AWS 
+* **Tools & DevOps:** Git, GitHub, Docker, Postman 
 
 ---
 
